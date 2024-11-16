@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/chanuka isuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuka isuru" height="30" width="40" /></a>
 <a href="https://fb.com/chanuka isuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanuka isuru" height="30" width="40" /></a>
 <a href="https://instagram.com/chanuka isuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanuka isuru" height="30" width="40" /></a>
-<a href="https://medium.com/@chanukaisuru" target="blank"><img align="center" src="https://github.com/Chanukaisuru/Chanukaisuru/blob/main/icon/iconmonstr-medium-3.svg" alt="@chanukaisuru" height="30" width="40" /></a>
+<a href="https://medium.com/@chanukaisuru" target="blank"><img align="center" src="https://github.com/Chanukaisuru/Chanukaisuru/blob/main/icon/3721675_medium_icon%20(1).svg" alt="@chanukaisuru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
