@@ -28,7 +28,8 @@
 <table>
   <th><img src = "https://github-readme-streak-stats.herokuapp.com?user=Chanukaisuru&theme=dark&hide_border=false" width = 500>
 </th>
-  <th><img src = "https://github-readme-stats.vercel.app/api?username=Chanukaisuru&show_icons=true&theme=dark" width = 500>
+  <th><img src="https://github-readme-stats.vercel.app/api?username=Chanukaisuru&show_icons=true&theme=dark&cache_seconds=1" width = 500>
+
 </th>
 </table>
 
