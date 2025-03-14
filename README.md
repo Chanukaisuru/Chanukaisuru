@@ -26,12 +26,9 @@
 
 ---
 <table>
-  <th><img src="https://github-readme-streak-stats.herokuapp.com?user=Chanukaisuru&theme=dark&hide_border=false&cache_seconds=3600&timestamp=1672531200" width="500">
-
-
-</th>
+ 
   <th><img src="https://github-readme-stats.vercel.app/api?username=Chanukaisuru&show_icons=true&theme=dark&cache_seconds=1&timestamp=1672531200" width="500">
-
+ <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanukaisuru&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" ></th>
 
 </th>
 </table>
